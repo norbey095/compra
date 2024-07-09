@@ -1,0 +1,20 @@
+C:\Users\diana.escobar\Desktop\Censa\progreso\bin\Debug\progreso.exe.config
+C:\Users\diana.escobar\Desktop\Censa\progreso\bin\Debug\progreso.exe
+C:\Users\diana.escobar\Desktop\Censa\progreso\bin\Debug\progreso.pdb
+C:\Users\diana.escobar\Desktop\Censa\progreso\obj\Debug\progreso.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\Censa\progreso\obj\Debug\progreso.Form1.resources
+C:\Users\diana.escobar\Desktop\Censa\progreso\obj\Debug\progreso.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\Censa\progreso\obj\Debug\progreso.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\Censa\progreso\obj\Debug\progreso.csproj.CoreCompileInputs.cache
+C:\Users\diana.escobar\Desktop\Censa\progreso\obj\Debug\progreso.exe
+C:\Users\diana.escobar\Desktop\Censa\progreso\obj\Debug\progreso.pdb
+F:\norbey alejandro\alejo\visual studio\progreso\bin\Debug\progreso.exe.config
+F:\norbey alejandro\alejo\visual studio\progreso\bin\Debug\progreso.exe
+F:\norbey alejandro\alejo\visual studio\progreso\bin\Debug\progreso.pdb
+F:\norbey alejandro\alejo\visual studio\progreso\obj\Debug\progreso.csproj.AssemblyReference.cache
+F:\norbey alejandro\alejo\visual studio\progreso\obj\Debug\progreso.Form1.resources
+F:\norbey alejandro\alejo\visual studio\progreso\obj\Debug\progreso.Properties.Resources.resources
+F:\norbey alejandro\alejo\visual studio\progreso\obj\Debug\progreso.csproj.GenerateResource.cache
+F:\norbey alejandro\alejo\visual studio\progreso\obj\Debug\progreso.csproj.CoreCompileInputs.cache
+F:\norbey alejandro\alejo\visual studio\progreso\obj\Debug\progreso.exe
+F:\norbey alejandro\alejo\visual studio\progreso\obj\Debug\progreso.pdb
