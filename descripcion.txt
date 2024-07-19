@@ -1,0 +1,1 @@
+Proyecto realizado en C#, proyecto básico que hace referencia a gestión de carrito de compra, donde se agrega o se elimina productos, sin conexión a Base de Datos, se muestra lo que se va agregando y se va eliminando, por último cuando finaliza la compra se calcula el valor total con el valor de envío que se calcula a partir del valor de la compra.
